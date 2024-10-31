@@ -1,3 +1,5 @@
+TDS-project:
+
 ->This script uses the GitHub API to retrieve user data for individuals located in London with over 500 followers.
 ->The most interesting finding was that most popular London-based GitHub users are actively involved in open-source contributions and have a large number of repositories.
 ->Developers looking to grow their following could focus on consistent contributions, particularly in open-source projects.
@@ -77,3 +79,4 @@ Company Name Standardization: Company names may have varied formatting; consider
 Recommendations for Developers:
 Growing a GitHub presence requires consistent contributions, particularly to popular open-source repositories.
 Active involvement in projects that have frequent updates and many contributors may also attract followers.
+
